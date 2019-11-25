@@ -25,8 +25,11 @@ Notes:
 Create a txt file in the same directory as the Secret Santa.py file.  Fill this text file with the names, numbers, and phone carriers for each person participating in the Secret Santa gift exchange.  Format it like so:
 
 Zach, 5025551234, verizon
+
 John, 3305551234, att
+
 Macayla, 9035554433, tmobile
+
 Selena, 4435551234, sprint
 
 There is also a section in the Secret Santa.py file where you can mark who the couples are so that couples are never chosen for each other (since they are buying gifts for each other anyway).
