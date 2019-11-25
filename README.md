@@ -4,6 +4,8 @@ Sends out text messages to a group of people to anonymously select who is buying
 
 What I learned from writing this:
 
+    • How to send out texts from Python code for free
+
     • How to utilize email-to-text technology from major phone carriers
     
     • How to forge an email correctly via code so that it isn't marked as spam by email servers
