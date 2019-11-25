@@ -16,6 +16,7 @@ What I learned from writing this:
 Usage:
 
 client = SECRET_SANTA('zach@gmail.com', 'myGmailPasswordHere')
+
 client.Main()
 
 
